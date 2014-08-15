@@ -18,7 +18,6 @@ makeCacheMatrix <- function(x = matrix()) {
              getsolve = getsolve)
 }
 
-
 ## Function 2: cacheSolve
 ## If inverse exists in cache and matrix has not changed, use it
 ## Otherwise, calculate for the first time drawing from first function def.'s
