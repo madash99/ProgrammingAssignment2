@@ -3,6 +3,7 @@
 
 # Function 1: makeCacheMatrix 
 # Argument required is a square matrix.
+# Defines and stores the necessary functions -- get, setsolve, getsolve
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
