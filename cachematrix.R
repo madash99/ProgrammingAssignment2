@@ -3,6 +3,7 @@
 
 ## Programming Assignment 2
 ## Shannon Mada
+## Friday, August 15th, 2014
 
 makeCacheMatrix <- function(x = matrix()) {
 
